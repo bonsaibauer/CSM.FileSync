@@ -1,0 +1,13 @@
+{
+  "mode": "client",
+  "host": {
+    "listen_port": 54821,
+    "workshop_root": "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\255710"
+  },
+  "client": {
+    "server_ip": "25.0.0.123",
+    "server_port": 54821,
+    "assets_path": "C:\\Users\\phili\\AppData\\Local\\Colossal Order\\Cities_Skylines\\Addons\\Assets",
+    "mods_path": "C:\\Users\\phili\\AppData\\Local\\Colossal Order\\Cities_Skylines\\Addons\\Mods"
+  }
+}
